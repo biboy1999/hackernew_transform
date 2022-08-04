@@ -1,0 +1,4 @@
+Flask==2.2.0
+Flask-Cors==3.0.10
+requests==2.28.1
+ignorance-transform @ git+https://github.com/biboy1999/ignorance-transform.git@7d620bcc6567da2aac0b83e5bf12054ea3298b84
